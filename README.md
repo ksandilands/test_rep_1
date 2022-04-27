@@ -1,2 +1,2 @@
 # test_rep_1
-Thi is a rest rep
+This is a test repo
